@@ -1,0 +1,24 @@
+"[Mandatory]
+Choose action required for the product item. 
+- Add New Item
+- Edit Item Content Info
+- Delete The SKU
+- Change Price Only
+- Change Active Status Only","[Mandatory]
+Please get the Master Product Code from product_dictionary → master_product_code","[Mandatory]
+State the SKU Code that is used by vendor to track the product item in their Inventory Management. ","[Mandatory]
+Input number only and can up to 2 decimal points. 
+E.g. 10.50","[Mandatory]
+Put ""0"" if there is no limit per checkout.
+E.g. If you only allow customers to buy 3 items of that product per order, then put ""3"" for that product item. ","[Mandatory]
+Choose the most suitable category from the dropbox.
+Please see ""Category Tree"" tab for the full list of categories. ","[Mandatory]
+- 0 = the product is Inactive and not showing in App and Web
+- 1 = the product is Active and showing in App and Web","[Optional]
+Choose the Tagging that matched your product item for Disclaimer purpose. 
+- disclaimer_baby_formula
+- disclaimer_adult_product
+- disclaimer_pharmacy
+- disclaimer_alcoholic
+- disclaimer_tobacco",,,,,,,,,,,,,,,,,,
+Action Required,Master Product Code,SKU Code,Product Price (RM),Limit on Item per checkout,Child Category (EN),Is Active?,Tags,,,,,,,,,,,,,,,,,,

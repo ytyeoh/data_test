@@ -1,0 +1,5 @@
+Instruction to Content Team,,,,,,,,,,,,,,,,,,,,,,,,,
+"1. If the barcode has been used by an existing Master Product in Catalog, then proceed to create the product item as new Master Product without the barcode. ",,,,,,,,,,,,,,,,,,,,,,,,,
+"2. If the barcode is shared by multiple product items due to they are same product with different variation only (e.g. T-Shirt (Red), T-Shirt (Blue, etc), then put the barcode at the 1st product item only and leave the rest of the product items with empty barcode. ",,,,,,,,,,,,,,,,,,,,,,,,,
+"3. If the case submitted is through Formstack/Help Center, then follow the Barcode Exemption Logic that is meant for FS/HC cases only (please consult your Team Lead if unsure). ",,,,,,,,,,,,,,,,,,,,,,,,,
+"4. For Vape products, please proceed with the menu update/creation as per usual (Special Allowance for MY Only). ",,,,,,,,,,,,,,,,,,,,,,,,,
