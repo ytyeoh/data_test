@@ -1,12 +1,12 @@
 EN - Category Level 1,EN - Category level 2,EN - Category level 3,Tree
-11.11 Deals,11.11 Deals
-12.12 Deals,12.12 Deals
+11.11 Deals,,,11.11 Deals
+12.12 Deals,,,12.12 Deals
 Alcoholic Beverages (Non-Halal),Beer (Non-Halal),"Ale, Lager & Malt (Non-Halal)","Alcoholic Beverages (Non-Halal) > Beer (Non-Halal) > Ale, Lager & Malt (Non-Halal)"
 Alcoholic Beverages (Non-Halal),Beer (Non-Halal),Cider (Non-Halal),Alcoholic Beverages (Non-Halal) > Beer (Non-Halal) > Cider (Non-Halal)
 Alcoholic Beverages (Non-Halal),Beer (Non-Halal),"Dark, Stout (Non-Halal)","Alcoholic Beverages (Non-Halal) > Beer (Non-Halal) > Dark, Stout (Non-Halal)"
 Alcoholic Beverages (Non-Halal),Beer (Non-Halal),Fruit Beer (Non-Halal),Alcoholic Beverages (Non-Halal) > Beer (Non-Halal) > Fruit Beer (Non-Halal)
 Alcoholic Beverages (Non-Halal),Beer (Non-Halal),Premium Beer (Non-Halal),Alcoholic Beverages (Non-Halal) > Beer (Non-Halal) > Premium Beer (Non-Halal)
-Alcoholic Beverages (Non-Halal),Liqueur (Non-Halal),Alcoholic Beverages (Non-Halal) > Liqueur (Non-Halal)
+Alcoholic Beverages (Non-Halal),Liqueur (Non-Halal),,Alcoholic Beverages (Non-Halal) > Liqueur (Non-Halal)
 Alcoholic Beverages (Non-Halal),Spirits (Non-Halal),Aperitifs (Non-Halal),Alcoholic Beverages (Non-Halal) > Spirits (Non-Halal) > Aperitifs (Non-Halal)
 Alcoholic Beverages (Non-Halal),Spirits (Non-Halal),Brandy (Non-Halal),Alcoholic Beverages (Non-Halal) > Spirits (Non-Halal) > Brandy (Non-Halal)
 Alcoholic Beverages (Non-Halal),Spirits (Non-Halal),"Gin, Vodka & Rum (Non-Halal)","Alcoholic Beverages (Non-Halal) > Spirits (Non-Halal) > Gin, Vodka & Rum (Non-Halal)"
@@ -22,24 +22,24 @@ Alcoholic Beverages (Non-Halal),Wine (Non-Halal),Rose Wine (Non-Halal),Alcoholic
 Alcoholic Beverages (Non-Halal),Wine (Non-Halal),Sparkling & Champagne (Non-Halal),Alcoholic Beverages (Non-Halal) > Wine (Non-Halal) > Sparkling & Champagne (Non-Halal)
 Alcoholic Beverages (Non-Halal),Wine (Non-Halal),Sweet & Dessert Wine (Non-Halal),Alcoholic Beverages (Non-Halal) > Wine (Non-Halal) > Sweet & Dessert Wine (Non-Halal)
 Alcoholic Beverages (Non-Halal),Wine (Non-Halal),White Wine (Non-Halal),Alcoholic Beverages (Non-Halal) > Wine (Non-Halal) > White Wine (Non-Halal)
-Automotive,Automotive
+Automotive,,,Automotive
 Beverages,Coffee,Coffee Capsules & Pods,Beverages > Coffee > Coffee Capsules & Pods
 Beverages,Coffee,"Ground Coffee, Beans & Filters","Beverages > Coffee > Ground Coffee, Beans & Filters"
 Beverages,Coffee,Instant Coffee,Beverages > Coffee > Instant Coffee
 Beverages,Coffee,Ready-To-Drink Coffee,Beverages > Coffee > Ready-To-Drink Coffee
 Beverages,Coffee,Retail Coffee,Beverages > Coffee > Retail Coffee
-Beverages,FamilyMart Collection Tea,Beverages > FamilyMart Collection Tea
+Beverages,FamilyMart Collection Tea,,Beverages > FamilyMart Collection Tea
 Beverages,Juice,Fruit Juice,Beverages > Juice > Fruit Juice
 Beverages,Juice,Vegetable Juice,Beverages > Juice > Vegetable Juice
 Beverages,Juice,Coconut Water,Beverages > Juice > Coconut Water
-Beverages,"Milk, Chocolate & Malted Powder","Beverages > Milk, Chocolate & Malted Powder"
-Beverages,Mix Beverages,Beverages > Mix Beverages
-Beverages,Powdered Beverages,Beverages > Powdered Beverages
-Beverages,Ready-to-Drink,Beverages > Ready-to-Drink
+Beverages,"Milk, Chocolate & Malted Powder",,"Beverages > Milk, Chocolate & Malted Powder"
+Beverages,Mix Beverages,,Beverages > Mix Beverages
+Beverages,Powdered Beverages,,Beverages > Powdered Beverages
+Beverages,Ready-to-Drink,,Beverages > Ready-to-Drink
 Beverages,Soft Drinks,Carbonated Drinks,Beverages > Soft Drinks > Carbonated Drinks
 Beverages,Soft Drinks,Chocolate & Malted Beverages,Beverages > Soft Drinks > Chocolate & Malted Beverages
 Beverages,Soft Drinks,Cider & Vinegar Drinks,Beverages > Soft Drinks > Cider & Vinegar Drinks
-Beverages,Soft Drinks,Beverages > Soft Drinks
+Beverages,Soft Drinks,,Beverages > Soft Drinks
 Beverages,Soft Drinks,Cordials & Syrups,Beverages > Soft Drinks > Cordials & Syrups
 Beverages,Soft Drinks,Energy & Isotonic,Beverages > Soft Drinks > Energy & Isotonic
 Beverages,Soft Drinks,Non-Carbonated Drinks,Beverages > Soft Drinks > Non-Carbonated Drinks
@@ -63,72 +63,72 @@ Beverages,Water,Flavoured Water,Beverages > Water > Flavoured Water
 Beverages,Water,Mineral Water,Beverages > Water > Mineral Water
 Beverages,Water,Sparkling Water,Beverages > Water > Sparkling Water
 Beverages,Water,Drinking Water,Beverages > Water > Drinking Water
-Beverages,Shake,Beverages > Shake
-Beverages,Smoothies,Beverages > Smoothies
-Beverages,Ice Blended,Beverages > Ice Blended
-Beverages,Soy Drinks,Beverages > Soy Drinks
-Biscuits,Assorted Biscuit Packs,Biscuits > Assorted Biscuit Packs
-Biscuits,Biscuit Sticks,Biscuits > Biscuit Sticks
-Biscuits,Biscuits & Cookies,Biscuits > Biscuits & Cookies
-Biscuits,Creamed & Filled,Biscuits > Creamed & Filled
-Biscuits,Digestive Biscuits,Biscuits > Digestive Biscuits
-Biscuits,Wafers & Others,Biscuits > Wafers & Others
-Biscuits,Retail Biscuits,Biscuits > Retail Biscuits
-Brand Day,Brand Day
-Breads,Bun,Breads > Bun
-Breads,Family Bread,Breads > Family Bread
-Breads & Spreads,Chocolate & Hazelnut Spreads,Breads & Spreads > Chocolate & Hazelnut Spreads
-Breads & Spreads,Flatbreads & Wraps,Breads & Spreads > Flatbreads & Wraps
-Breads & Spreads,Honey & Maple Syrup,Breads & Spreads > Honey & Maple Syrup
-Breads & Spreads,Jam & Kaya,Breads & Spreads > Jam & Kaya
-Breads & Spreads,Loaves & Artisanal Breads,Breads & Spreads > Loaves & Artisanal Breads
-Breads & Spreads,Other Breads,Breads & Spreads > Other Breads
-Breads & Spreads,Other Spreads,Breads & Spreads > Other Spreads
-Breads & Spreads,Peanut Butter,Breads & Spreads > Peanut Butter
-Breads & Spreads,Sandwich & Sliced Breads,Breads & Spreads > Sandwich & Sliced Breads
-Bundle Deals,Bundle Deals
-Bundle Promo,Bundle Promo
-Bundles,Bundles
-Buy 1 Free 1,Buy 1 Free 1
-Cafe Beverages,Cafe Coffee,Cafe Beverages > Cafe Coffee
-Cafe Beverages,Frappe,Cafe Beverages > Frappe
-Cafe Beverages,Fresh Drinks,Cafe Beverages > Fresh Drinks
-Cake,Cake
-Canned Foods,Canned Beans,Canned Foods > Canned Beans
-Canned Foods,Canned Fruits & Desserts,Canned Foods > Canned Fruits & Desserts
-Canned Foods,Canned Meats,Canned Foods > Canned Meats
-Canned Foods,Canned Seafood,Canned Foods > Canned Seafood
-Canned Foods,Canned Soups,Canned Foods > Canned Soups
-Canned Foods,Canned Vegetables,Canned Foods > Canned Vegetables
-Chinese New Year,Gift Packs & Hampers,Chinese New Year > Gift Packs & Hampers
-Chinese New Year,Cookies & Biscuits,Chinese New Year > Cookies & Biscuits
-Chinese New Year,Jerky & Sausages,Chinese New Year > Jerky & Sausages
-Chinese New Year,Fruit Baskets & Mandarin Oranges,Chinese New Year > Fruit Baskets & Mandarin Oranges
-Chinese New Year,Dried Fruits & Nuts,Chinese New Year > Dried Fruits & Nuts
-Chinese New Year,CNY Beverages,Chinese New Year > CNY Beverages
-Chinese New Year,House Cleaning,Chinese New Year > House Cleaning
-Chocolates & Sweets,Assorted Candies,Chocolates & Sweets > Assorted Candies
-Chocolates & Sweets,Boxes & Gifts,Chocolates & Sweets > Boxes & Gifts
-Chocolates & Sweets,Chewy & Marshmallow,Chocolates & Sweets > Chewy & Marshmallow
-Chocolates & Sweets,Chocolate Bars & Blocks,Chocolates & Sweets > Chocolate Bars & Blocks
-Chocolates & Sweets,Cupcakes,Chocolates & Sweets > Cupcakes
-Chocolates & Sweets,Gummies & Pastilles,Chocolates & Sweets > Gummies & Pastilles
-Chocolates & Sweets,Lollipops,Chocolates & Sweets > Lollipops
-Chocolates & Sweets,Mints & Lozenges,Chocolates & Sweets > Mints & Lozenges
-Chocolates & Sweets,Multipacks,Chocolates & Sweets > Multipacks
-Chocolates & Sweets,Chocolate-Coated Nuts,Chocolates & Sweets > Chocolate-Coated Nuts
-Christmas,Advent Calendars,Christmas > Advent Calendars
-Christmas,Mince Pies,Christmas > Mince Pies
-Christmas,Christmas Cakes & Puddings,Christmas > Christmas Cakes & Puddings
-Christmas,Novelty Gifts,Christmas > Novelty Gifts
-Christmas,Christmas Biscuits,Christmas > Christmas Biscuits
-Christmas,Chocolate Gifts,Christmas > Chocolate Gifts
-Christmas,Christmas Groceries,Christmas > Christmas Groceries
-Christmas,Gift Sets,Christmas > Gift Sets
-Christmas,Christmas Drief Fruit & Nuts,Christmas > Christmas Drief Fruit & Nuts
-Christmas,Christmas Drinks,Christmas > Christmas Drinks
-Christmas,Christmas-home,Christmas > Christmas-home
-Combo Deals,Combo Deals
+Beverages,Shake,,Beverages > Shake
+Beverages,Smoothies,,Beverages > Smoothies
+Beverages,Ice Blended,,Beverages > Ice Blended
+Beverages,Soy Drinks,,Beverages > Soy Drinks
+Biscuits,Assorted Biscuit Packs,,Biscuits > Assorted Biscuit Packs
+Biscuits,Biscuit Sticks,,Biscuits > Biscuit Sticks
+Biscuits,Biscuits & Cookies,,Biscuits > Biscuits & Cookies
+Biscuits,Creamed & Filled,,Biscuits > Creamed & Filled
+Biscuits,Digestive Biscuits,,Biscuits > Digestive Biscuits
+Biscuits,Wafers & Others,,Biscuits > Wafers & Others
+Biscuits,Retail Biscuits,,Biscuits > Retail Biscuits
+Brand Day,,,Brand Day
+Breads,Bun,,Breads > Bun
+Breads,Family Bread,,Breads > Family Bread
+Breads & Spreads,Chocolate & Hazelnut Spreads,,Breads & Spreads > Chocolate & Hazelnut Spreads
+Breads & Spreads,Flatbreads & Wraps,,Breads & Spreads > Flatbreads & Wraps
+Breads & Spreads,Honey & Maple Syrup,,Breads & Spreads > Honey & Maple Syrup
+Breads & Spreads,Jam & Kaya,,Breads & Spreads > Jam & Kaya
+Breads & Spreads,Loaves & Artisanal Breads,,Breads & Spreads > Loaves & Artisanal Breads
+Breads & Spreads,Other Breads,,Breads & Spreads > Other Breads
+Breads & Spreads,Other Spreads,,Breads & Spreads > Other Spreads
+Breads & Spreads,Peanut Butter,,Breads & Spreads > Peanut Butter
+Breads & Spreads,Sandwich & Sliced Breads,,Breads & Spreads > Sandwich & Sliced Breads
+Bundle Deals,,,Bundle Deals
+Bundle Promo,,,Bundle Promo
+Bundles,,,Bundles
+Buy 1 Free 1,,,Buy 1 Free 1
+Cafe Beverages,Cafe Coffee,,Cafe Beverages > Cafe Coffee
+Cafe Beverages,Frappe,,Cafe Beverages > Frappe
+Cafe Beverages,Fresh Drinks,,Cafe Beverages > Fresh Drinks
+Cake,,,Cake
+Canned Foods,Canned Beans,,Canned Foods > Canned Beans
+Canned Foods,Canned Fruits & Desserts,,Canned Foods > Canned Fruits & Desserts
+Canned Foods,Canned Meats,,Canned Foods > Canned Meats
+Canned Foods,Canned Seafood,,Canned Foods > Canned Seafood
+Canned Foods,Canned Soups,,Canned Foods > Canned Soups
+Canned Foods,Canned Vegetables,,Canned Foods > Canned Vegetables
+Chinese New Year,Gift Packs & Hampers,,Chinese New Year > Gift Packs & Hampers
+Chinese New Year,Cookies & Biscuits,,Chinese New Year > Cookies & Biscuits
+Chinese New Year,Jerky & Sausages,,Chinese New Year > Jerky & Sausages
+Chinese New Year,Fruit Baskets & Mandarin Oranges,,Chinese New Year > Fruit Baskets & Mandarin Oranges
+Chinese New Year,Dried Fruits & Nuts,,Chinese New Year > Dried Fruits & Nuts
+Chinese New Year,CNY Beverages,,Chinese New Year > CNY Beverages
+Chinese New Year,House Cleaning,,Chinese New Year > House Cleaning
+Chocolates & Sweets,Assorted Candies,,Chocolates & Sweets > Assorted Candies
+Chocolates & Sweets,Boxes & Gifts,,Chocolates & Sweets > Boxes & Gifts
+Chocolates & Sweets,Chewy & Marshmallow,,Chocolates & Sweets > Chewy & Marshmallow
+Chocolates & Sweets,Chocolate Bars & Blocks,,Chocolates & Sweets > Chocolate Bars & Blocks
+Chocolates & Sweets,Cupcakes,,Chocolates & Sweets > Cupcakes
+Chocolates & Sweets,Gummies & Pastilles,,Chocolates & Sweets > Gummies & Pastilles
+Chocolates & Sweets,Lollipops,,Chocolates & Sweets > Lollipops
+Chocolates & Sweets,Mints & Lozenges,,Chocolates & Sweets > Mints & Lozenges
+Chocolates & Sweets,Multipacks,,Chocolates & Sweets > Multipacks
+Chocolates & Sweets,Chocolate-Coated Nuts,,Chocolates & Sweets > Chocolate-Coated Nuts
+Christmas,Advent Calendars,,Christmas > Advent Calendars
+Christmas,Mince Pies,,Christmas > Mince Pies
+Christmas,Christmas Cakes & Puddings,,Christmas > Christmas Cakes & Puddings
+Christmas,Novelty Gifts,,Christmas > Novelty Gifts
+Christmas,Christmas Biscuits,,Christmas > Christmas Biscuits
+Christmas,Chocolate Gifts,,Christmas > Chocolate Gifts
+Christmas,Christmas Groceries,,Christmas > Christmas Groceries
+Christmas,Gift Sets,,Christmas > Gift Sets
+Christmas,Christmas Drief Fruit & Nuts,,Christmas > Christmas Drief Fruit & Nuts
+Christmas,Christmas Drinks,,Christmas > Christmas Drinks
+Christmas,Christmas-home,,Christmas > Christmas-home
+Combo Deals,,,Combo Deals
 Cooking & Baking,Baking Needs,Baking Accessories,Cooking & Baking > Baking Needs > Baking Accessories
 Cooking & Baking,Baking Needs,Baking Flour,Cooking & Baking > Baking Needs > Baking Flour
 Cooking & Baking,Baking Needs,Coconut Products,Cooking & Baking > Baking Needs > Coconut Products
@@ -156,7 +156,7 @@ Cooking & Baking,Oils,Olive Oil,Cooking & Baking > Oils > Olive Oil
 Cooking & Baking,Oils,Other Oils,Cooking & Baking > Oils > Other Oils
 Cooking & Baking,Oils,Sunflower Oil,Cooking & Baking > Oils > Sunflower Oil
 Cooking & Baking,Oils,Vegetable Oil,Cooking & Baking > Oils > Vegetable Oil
-Cooking & Baking,Other Cooking Needs,Cooking & Baking > Other Cooking Needs
+Cooking & Baking,Other Cooking Needs,,Cooking & Baking > Other Cooking Needs
 Cooking & Baking,Rice,Brown Rice,Cooking & Baking > Rice > Brown Rice
 Cooking & Baking,Rice,Japanese Rice,Cooking & Baking > Rice > Japanese Rice
 Cooking & Baking,Rice,Organic Rice,Cooking & Baking > Rice > Organic Rice
@@ -168,58 +168,58 @@ Cooking & Baking,Sugar & Sweeteners,Icing & Caster Sugar,Cooking & Baking > Suga
 Cooking & Baking,Sugar & Sweeteners,Raw & Brown Sugar,Cooking & Baking > Sugar & Sweeteners > Raw & Brown Sugar
 Cooking & Baking,Sugar & Sweeteners,"Sugar Cubes, Sticks & Crystals","Cooking & Baking > Sugar & Sweeteners > Sugar Cubes, Sticks & Crystals"
 Cooking & Baking,Sugar & Sweeteners,Sweeteners,Cooking & Baking > Sugar & Sweeteners > Sweeteners
-Cooking & Baking,Salt,Cooking & Baking > Salt
-Daily Food,Processed Meat,Daily Food > Processed Meat
-Dairy & Chilled,Butter & Margarine,Dairy & Chilled > Butter & Margarine
-Dairy & Chilled,Cheese,Dairy & Chilled > Cheese
-Dairy & Chilled,Cultured Milk,Dairy & Chilled > Cultured Milk
-Dairy & Chilled,Frozen,Dairy & Chilled > Frozen
-Dairy & Chilled,Popsicles,Dairy & Chilled > Popsicles
-Dairy & Chilled,UHT & Packaged Milk,Dairy & Chilled > UHT & Packaged Milk
-Dairy & Chilled,Yogurt,Dairy & Chilled > Yogurt
-Desserts,Desserts
-Dried Foods,"Beans, Seeds & Nuts","Dried Foods > Beans, Seeds & Nuts"
-Dried Foods,Chinese Herbs & Others,Dried Foods > Chinese Herbs & Others
-Dried Foods,Seaweed & Fungus,Dried Foods > Seaweed & Fungus
-Dried Foods,Dried Seafood,Dried Foods > Dried Seafood
+Cooking & Baking,Salt,,Cooking & Baking > Salt
+Daily Food,Processed Meat,,Daily Food > Processed Meat
+Dairy & Chilled,Butter & Margarine,,Dairy & Chilled > Butter & Margarine
+Dairy & Chilled,Cheese,,Dairy & Chilled > Cheese
+Dairy & Chilled,Cultured Milk,,Dairy & Chilled > Cultured Milk
+Dairy & Chilled,Frozen,,Dairy & Chilled > Frozen
+Dairy & Chilled,Popsicles,,Dairy & Chilled > Popsicles
+Dairy & Chilled,UHT & Packaged Milk,,Dairy & Chilled > UHT & Packaged Milk
+Dairy & Chilled,Yogurt,,Dairy & Chilled > Yogurt
+Desserts,,,Desserts
+Dried Foods,"Beans, Seeds & Nuts",,"Dried Foods > Beans, Seeds & Nuts"
+Dried Foods,Chinese Herbs & Others,,Dried Foods > Chinese Herbs & Others
+Dried Foods,Seaweed & Fungus,,Dried Foods > Seaweed & Fungus
+Dried Foods,Dried Seafood,,Dried Foods > Dried Seafood
 Electronics,Audio System,Headsets & Earphones,Electronics > Audio System > Headsets & Earphones
 Electronics,Audio System,Microphones & Speakers,Electronics > Audio System > Microphones & Speakers
-Electronics,Other Electronics Accessories,Electronics > Other Electronics Accessories
-Electronics,Mobile Phone,Electronics > Mobile Phone
-Electronics,Phone Decoration Accessories,Electronics > Phone Decoration Accessories
-Electronics,Phone Protective Glass,Electronics > Phone Protective Glass
-Electronics,Phone Protective Case,Electronics > Phone Protective Case
+Electronics,Other Electronics Accessories,,Electronics > Other Electronics Accessories
+Electronics,Mobile Phone,,Electronics > Mobile Phone
+Electronics,Phone Decoration Accessories,,Electronics > Phone Decoration Accessories
+Electronics,Phone Protective Glass,,Electronics > Phone Protective Glass
+Electronics,Phone Protective Case,,Electronics > Phone Protective Case
 Electronics,Cables & Charges,IP Cables,Electronics > Cables & Charges > IP Cables
 Electronics,Cables & Charges,Micro Cables,Electronics > Cables & Charges > Micro Cables
 Electronics,Cables & Charges,Type C Cables,Electronics > Cables & Charges > Type C Cables
 Electronics,Cables & Charges,Power Adapters,Electronics > Cables & Charges > Power Adapters
 Electronics,Cables & Charges,Other Cables,Electronics > Cables & Charges > Other Cables
-Electronics,Powerbanks & Batteries,Electronics > Powerbanks & Batteries
-Electronics,Vehicle Accessories,Electronics > Vehicle Accessories
+Electronics,Powerbanks & Batteries,,Electronics > Powerbanks & Batteries
+Electronics,Vehicle Accessories,,Electronics > Vehicle Accessories
 Electronics,Mobile & Computer Accessories,Storages & Hard Drives,Electronics > Mobile & Computer Accessories > Storages & Hard Drives
 Electronics,Mobile & Computer Accessories,Other Mobile & Computer Accessories,Electronics > Mobile & Computer Accessories > Other Mobile & Computer Accessories
-Exclusive,Exclusive
-Fashion,Bags & Pouches,Fashion > Bags & Pouches
-Fashion,Clothing,Fashion > Clothing
-Fashion,Jewelries & Other Accessories,Fashion > Jewelries & Other Accessories
-Fashion,Shawl,Fashion > Shawl
-Fashion,Socks,Fashion > Socks
-Festive,Festive
-Festive Foods,Festive Foods
-Flowers,Artificial Flowers,Flowers > Artificial Flowers
-Flowers,Dried Flowers,Flowers > Dried Flowers
-Flowers,Flower Boxes,Flowers > Flower Boxes
-Flowers,Flower Bundles,Flowers > Flower Bundles
-Flowers,Fresh Flowers,Flowers > Fresh Flowers
-Flowers,Hand Bouquets,Flowers > Hand Bouquets
-Flowers,Others Bouquet,Flowers > Others Bouquet
-Flowers,Others Floral Accessories,Flowers > Others Floral Accessories
-Flowers,Plants,Flowers > Plants
-Flowers,Single Stalks,Flowers > Single Stalks
-Flowers,Soap Flowers,Flowers > Soap Flowers
-Flowers,Table Flowers,Flowers > Table Flowers
-Flowers,Vase,Flowers > Vase
-Fresh Produce,Other Fresh Produce,Fresh Produce > Other Fresh Produce
+Exclusive,,,Exclusive
+Fashion,Bags & Pouches,,Fashion > Bags & Pouches
+Fashion,Clothing,,Fashion > Clothing
+Fashion,Jewelries & Other Accessories,,Fashion > Jewelries & Other Accessories
+Fashion,Shawl,,Fashion > Shawl
+Fashion,Socks,,Fashion > Socks
+Festive,,,Festive
+Festive Foods,,,Festive Foods
+Flowers,Artificial Flowers,,Flowers > Artificial Flowers
+Flowers,Dried Flowers,,Flowers > Dried Flowers
+Flowers,Flower Boxes,,Flowers > Flower Boxes
+Flowers,Flower Bundles,,Flowers > Flower Bundles
+Flowers,Fresh Flowers,,Flowers > Fresh Flowers
+Flowers,Hand Bouquets,,Flowers > Hand Bouquets
+Flowers,Others Bouquet,,Flowers > Others Bouquet
+Flowers,Others Floral Accessories,,Flowers > Others Floral Accessories
+Flowers,Plants,,Flowers > Plants
+Flowers,Single Stalks,,Flowers > Single Stalks
+Flowers,Soap Flowers,,Flowers > Soap Flowers
+Flowers,Table Flowers,,Flowers > Table Flowers
+Flowers,Vase,,Flowers > Vase
+Fresh Produce,Other Fresh Produce,,Fresh Produce > Other Fresh Produce
 Fresh Produce,Fresh Foods,Eggs,Fresh Produce > Fresh Foods > Eggs
 Fresh Produce,Fresh Foods,Tofu & Soy Products,Fresh Produce > Fresh Foods > Tofu & Soy Products
 Fresh Produce,Fruits,"Apples, Pears","Fresh Produce > Fruits > Apples, Pears"
@@ -242,20 +242,20 @@ Fresh Produce,Vegetables,Organic Vegetables,Fresh Produce > Vegetables > Organic
 Fresh Produce,Vegetables,"Potatoes, Carrots, Root Vegetables","Fresh Produce > Vegetables > Potatoes, Carrots, Root Vegetables"
 Fresh Produce,Vegetables,Leafy Greens,Fresh Produce > Vegetables > Leafy Greens
 Fresh Produce,Vegetables,"Tomatoes, Cucumbers","Fresh Produce > Vegetables > Tomatoes, Cucumbers"
-Fresh Produce,Fresh Herbs,Fresh Produce > Fresh Herbs
-Frozen Foods,Frozen Vegetables,Frozen Foods > Frozen Vegetables
-Frozen Foods,Frozen Dim Sum,Frozen Foods > Frozen Dim Sum
-Gardening,Plant Care & Kits,Gardening > Plant Care & Kits
-Gardening,Seeds,Gardening > Seeds
-Gardening,Other Gardening Products,Gardening > Other Gardening Products
-Gifts,For Her,Gifts > For Her
-Gifts,For Him,Gifts > For Him
-Gifts & Boxes,Gifts & Boxes
-Groceries,Cereal,Groceries > Cereal
-Groceries,Honey,Groceries > Honey
-Groceries,Jam,Groceries > Jam
-Groceries,Processed Food,Groceries > Processed Food
-Halloween,Halloween
+Fresh Produce,Fresh Herbs,,Fresh Produce > Fresh Herbs
+Frozen Foods,Frozen Vegetables,,Frozen Foods > Frozen Vegetables
+Frozen Foods,Frozen Dim Sum,,Frozen Foods > Frozen Dim Sum
+Gardening,Plant Care & Kits,,Gardening > Plant Care & Kits
+Gardening,Seeds,,Gardening > Seeds
+Gardening,Other Gardening Products,,Gardening > Other Gardening Products
+Gifts,For Her,,Gifts > For Her
+Gifts,For Him,,Gifts > For Him
+Gifts & Boxes,,,Gifts & Boxes
+Groceries,Cereal,,Groceries > Cereal
+Groceries,Honey,,Groceries > Honey
+Groceries,Jam,,Groceries > Jam
+Groceries,Processed Food,,Groceries > Processed Food
+Halloween,,,Halloween
 Health & Beauty,Body Care,Body Powder,Health & Beauty > Body Care > Body Powder
 Health & Beauty,Body Care,Body Wash,Health & Beauty > Body Care > Body Wash
 Health & Beauty,Body Care,Fragrance & Deodorant,Health & Beauty > Body Care > Fragrance & Deodorant
@@ -309,31 +309,31 @@ Health & Beauty,Oral Hygiene,Mouth Care,Health & Beauty > Oral Hygiene > Mouth C
 Health & Beauty,Oral Hygiene,Mouthwash,Health & Beauty > Oral Hygiene > Mouthwash
 Health & Beauty,Oral Hygiene,Toothbrushes,Health & Beauty > Oral Hygiene > Toothbrushes
 Health & Beauty,Oral Hygiene,Toothpastes,Health & Beauty > Oral Hygiene > Toothpastes
-Health & Beauty,Travel Set,Health & Beauty > Travel Set
-Health & Wellness,Adult Diapers,Health & Wellness > Adult Diapers
-Health & Wellness,Beauty & Skin Care,Health & Wellness > Beauty & Skin Care
-Health & Wellness,Caregiver Essentials,Health & Wellness > Caregiver Essentials
-Health & Wellness,Digestion,Health & Wellness > Digestion
-Health & Wellness,Disposable Panties,Health & Wellness > Disposable Panties
-Health & Wellness,Food & Drinks,Health & Wellness > Food & Drinks
-Health & Wellness,Organic Items,Health & Wellness > Organic Items
-Health & Wellness,Performance,Health & Wellness > Performance
-Health & Wellness,Protein,Health & Wellness > Protein
+Health & Beauty,Travel Set,,Health & Beauty > Travel Set
+Health & Wellness,Adult Diapers,,Health & Wellness > Adult Diapers
+Health & Wellness,Beauty & Skin Care,,Health & Wellness > Beauty & Skin Care
+Health & Wellness,Caregiver Essentials,,Health & Wellness > Caregiver Essentials
+Health & Wellness,Digestion,,Health & Wellness > Digestion
+Health & Wellness,Disposable Panties,,Health & Wellness > Disposable Panties
+Health & Wellness,Food & Drinks,,Health & Wellness > Food & Drinks
+Health & Wellness,Organic Items,,Health & Wellness > Organic Items
+Health & Wellness,Performance,,Health & Wellness > Performance
+Health & Wellness,Protein,,Health & Wellness > Protein
 Health & Wellness,Vitamins & Supplements,Nutrition Powder,Health & Wellness > Vitamins & Supplements > Nutrition Powder
 Health & Wellness,Vitamins & Supplements,Vitamins,Health & Wellness > Vitamins & Supplements > Vitamins
-Health & Wellness,Weight Management,Health & Wellness > Weight Management
-Health & Wellness,Women Health,Health & Wellness > Women Health
-Health & Wellness,Over The Counter,Health & Wellness > Over The Counter
-Hot Snacks,Pastry,Hot Snacks > Pastry
-Hot Snacks,Snack Foods,Hot Snacks > Snack Foods
-Household Items,"Baking Paper, Foil & Wrap","Household Items > Baking Paper, Foil & Wrap"
-Household Items,Containers,Household Items > Containers
+Health & Wellness,Weight Management,,Health & Wellness > Weight Management
+Health & Wellness,Women Health,,Health & Wellness > Women Health
+Health & Wellness,Over The Counter,,Health & Wellness > Over The Counter
+Hot Snacks,Pastry,,Hot Snacks > Pastry
+Hot Snacks,Snack Foods,,Hot Snacks > Snack Foods
+Household Items,"Baking Paper, Foil & Wrap",,"Household Items > Baking Paper, Foil & Wrap"
+Household Items,Containers,,Household Items > Containers
 Household Items,Dishwashing,Anti-Bacterial Dishwashing Liquid,Household Items > Dishwashing > Anti-Bacterial Dishwashing Liquid
 Household Items,Dishwashing,"Pastes, Tablets & Others","Household Items > Dishwashing > Pastes, Tablets & Others"
 Household Items,Dishwashing,Regular Dishwashing Liquid,Household Items > Dishwashing > Regular Dishwashing Liquid
 Household Items,Dishwashing,Sponges,Household Items > Dishwashing > Sponges
 Household Items,Dishwashing,Washing Pods,Household Items > Dishwashing > Washing Pods
-Household Items,Drinkware,Household Items > Drinkware
+Household Items,Drinkware,,Household Items > Drinkware
 Household Items,Electrical,Batteries,Household Items > Electrical > Batteries
 Household Items,Fresheners,Air fresheners,Household Items > Fresheners > Air fresheners
 Household Items,Fresheners,Car fresheners,Household Items > Fresheners > Car fresheners
@@ -346,8 +346,8 @@ Household Items,Home Cleaners,Furniture & Glass Cleaner,Household Items > Home C
 Household Items,Home Cleaners,Home Accessories,Household Items > Home Cleaners > Home Accessories
 Household Items,Home Cleaners,Kitchen,Household Items > Home Cleaners > Kitchen
 Household Items,Home Cleaners,Shoe Care,Household Items > Home Cleaners > Shoe Care
-Household Items,Home Decoration,Household Items > Home Decoration
-Household Items,Home Necessities,Household Items > Home Necessities
+Household Items,Home Decoration,,Household Items > Home Decoration
+Household Items,Home Necessities,,Household Items > Home Necessities
 Household Items,Laundry Care,Bleaches,Household Items > Laundry Care > Bleaches
 Household Items,Laundry Care,Fabric Conditioners,Household Items > Laundry Care > Fabric Conditioners
 Household Items,Laundry Care,Fabric Softeners,Household Items > Laundry Care > Fabric Softeners
@@ -366,48 +366,48 @@ Household Items,Paper & Tissue,Toilet Paper,Household Items > Paper & Tissue > T
 Household Items,Pest Control,"Baits, Traps & Devices","Household Items > Pest Control > Baits, Traps & Devices"
 Household Items,Pest Control,Insect Repellents,Household Items > Pest Control > Insect Repellents
 Household Items,Pest Control,Insecticides & Insect Killers,Household Items > Pest Control > Insecticides & Insect Killers
-Household Items,Religious Items,Household Items > Religious Items
+Household Items,Religious Items,,Household Items > Religious Items
 Household Items,Household Sundries,Storage Bags,Household Items > Household Sundries > Storage Bags
 Household Items,Household Sundries,Garbage Bags,Household Items > Household Sundries > Garbage Bags
-Household Items,Kitchenware,Household Items > Kitchenware
-Ice Cubes,Ice Cubes
-Ice Cream,Ice Cream Cup,Ice Cream > Ice Cream Cup
-Ice Cream,Handpacked Ice Cream,Ice Cream > Handpacked Ice Cream
-Ice Cream,Ice Cream Party Pack,Ice Cream > Ice Cream Party Pack
-Ice Cream,Ice Cream Cake,Ice Cream > Ice Cream Cake
-Ice Cream,Ice Cream Scoop,Ice Cream > Ice Cream Scoop
-Ice Cream,Ice Cream Pint,Ice Cream > Ice Cream Pint
-Ice Cream,Ice Cream Tub,Ice Cream > Ice Cream Tub
-Ice Cream,Ice Cream Stick,Ice Cream > Ice Cream Stick
-Ice Cream,Sorbet,Ice Cream > Sorbet
+Household Items,Kitchenware,,Household Items > Kitchenware
+Ice Cubes,,,Ice Cubes
+Ice Cream,Ice Cream Cup,,Ice Cream > Ice Cream Cup
+Ice Cream,Handpacked Ice Cream,,Ice Cream > Handpacked Ice Cream
+Ice Cream,Ice Cream Party Pack,,Ice Cream > Ice Cream Party Pack
+Ice Cream,Ice Cream Cake,,Ice Cream > Ice Cream Cake
+Ice Cream,Ice Cream Scoop,,Ice Cream > Ice Cream Scoop
+Ice Cream,Ice Cream Pint,,Ice Cream > Ice Cream Pint
+Ice Cream,Ice Cream Tub,,Ice Cream > Ice Cream Tub
+Ice Cream,Ice Cream Stick,,Ice Cream > Ice Cream Stick
+Ice Cream,Sorbet,,Ice Cream > Sorbet
 Lifestyle,Gadgets & Accessories,Mobile Phone & Tab,Lifestyle > Gadgets & Accessories > Mobile Phone & Tab
 Lifestyle,Gadgets & Accessories,Accessories & Others,Lifestyle > Gadgets & Accessories > Accessories & Others
-Lifestyle,Other Accessories,Lifestyle > Other Accessories
-Lifestyle,Stationery,Lifestyle > Stationery
-Limited Time Promo,Limited Time Promo
-Local Desserts,Kuih,Local Desserts > Kuih
-Massive Deals,Massive Deals
-Meals,Bento,Meals > Bento
-Meals,Oden,Meals > Oden
-"Meat, Poultry & Seafood","Meat, Poultry & Seafood"
-Medical Equipment & Test Kit,Medical Equipment & Test Kit
-Merchandise,Merchandise
-Mother & Baby,Baby Care,Mother & Baby > Baby Care
-Mother & Baby,Baby Food,Mother & Baby > Baby Food
-Mother & Baby,Bathing Necessities,Mother & Baby > Bathing Necessities
-Mother & Baby,Bedding Accessories,Mother & Baby > Bedding Accessories
-Mother & Baby,Body Care Essentials,Mother & Baby > Body Care Essentials
-Mother & Baby,Bottle Feeding,Mother & Baby > Bottle Feeding
-Mother & Baby,Breastfeeding,Mother & Baby > Breastfeeding
-Mother & Baby,Children Books,Mother & Baby > Children Books
-Mother & Baby,Diapers,Mother & Baby > Diapers
-Mother & Baby,Formula Milk,Mother & Baby > Formula Milk
-Mother & Baby,Nursing & Safety,Mother & Baby > Nursing & Safety
-Mother & Baby,Toys,Mother & Baby > Toys
-Natural by Watsons,Natural by Watsons
-New Arrival,New Arrival
-Oats,Oats
-Only at Watsons,Only at Watsons
+Lifestyle,Other Accessories,,Lifestyle > Other Accessories
+Lifestyle,Stationery,,Lifestyle > Stationery
+Limited Time Promo,,,Limited Time Promo
+Local Desserts,Kuih,,Local Desserts > Kuih
+Massive Deals,,,Massive Deals
+Meals,Bento,,Meals > Bento
+Meals,Oden,,Meals > Oden
+"Meat, Poultry & Seafood",,,"Meat, Poultry & Seafood"
+Medical Equipment & Test Kit,,,Medical Equipment & Test Kit
+Merchandise,,,Merchandise
+Mother & Baby,Baby Care,,Mother & Baby > Baby Care
+Mother & Baby,Baby Food,,Mother & Baby > Baby Food
+Mother & Baby,Bathing Necessities,,Mother & Baby > Bathing Necessities
+Mother & Baby,Bedding Accessories,,Mother & Baby > Bedding Accessories
+Mother & Baby,Body Care Essentials,,Mother & Baby > Body Care Essentials
+Mother & Baby,Bottle Feeding,,Mother & Baby > Bottle Feeding
+Mother & Baby,Breastfeeding,,Mother & Baby > Breastfeeding
+Mother & Baby,Children Books,,Mother & Baby > Children Books
+Mother & Baby,Diapers,,Mother & Baby > Diapers
+Mother & Baby,Formula Milk,,Mother & Baby > Formula Milk
+Mother & Baby,Nursing & Safety,,Mother & Baby > Nursing & Safety
+Mother & Baby,Toys,,Mother & Baby > Toys
+Natural by Watsons,,,Natural by Watsons
+New Arrival,,,New Arrival
+Oats,,,Oats
+Only at Watsons,,,Only at Watsons
 Party Supplies,Party Accessories,Candle,Party Supplies > Party Accessories > Candle
 Party Supplies,Party Accessories,Face Paint,Party Supplies > Party Accessories > Face Paint
 Party Supplies,Party Accessories,Invitation Cards,Party Supplies > Party Accessories > Invitation Cards
@@ -440,64 +440,64 @@ Party Supplies,Party Wares,Sticks,Party Supplies > Party Wares > Sticks
 Party Supplies,Party Wares,Straws,Party Supplies > Party Wares > Straws
 Party Supplies,Party Wares,Tableware,Party Supplies > Party Wares > Tableware
 Party Supplies,Party Wares,Trash Bags,Party Supplies > Party Wares > Trash Bags
-Personal Care & Household,Health & Fitness,Personal Care & Household > Health & Fitness
-Personal Care & Household,Household & Toys,Personal Care & Household > Household & Toys
-Personal Care & Household,Personal Care,Personal Care & Household > Personal Care
-Pet Supplies,Dry Food,Pet Supplies > Dry Food
-Pet Supplies,Pet Care,Pet Supplies > Pet Care
-Pet Supplies,Pet Toys,Pet Supplies > Pet Toys
-Pet Supplies,Pet Treats,Pet Supplies > Pet Treats
-Pet Supplies,Wet Food,Pet Supplies > Wet Food
-Popcorn,Paper Cans,Popcorn > Paper Cans
-Popcorn,Baby Cans,Popcorn > Baby Cans
-Popcorn,Giftbox Sets,Popcorn > Giftbox Sets
-Popular Items,Popular Items
-Prepacked Food,Prepacked Food
-Preserved Food,Preserved Food
-Promotion,Promotion
-Purchase with Purchase,Purchase with Purchase
-Quick Bites,Onigiri,Quick Bites > Onigiri
-Quick Bites,Sandwiches,Quick Bites > Sandwiches
-Ready To Eat,Bakery,Ready To Eat > Bakery
-Ready To Eat,Instant Meals,Ready To Eat > Instant Meals
-Ready To Eat,Instant Porridge,Ready To Eat > Instant Porridge
-Ready To Eat,Ready to Eat Rice,Ready To Eat > Ready to Eat Rice
-Seasonal,Seasonal
-Slurpee,Slurpee
-Slurpee Deals,Slurpee Deals
-Snacks,Cereal Bars,Snacks > Cereal Bars
-Snacks,"Chips, Crisps & Sticks","Snacks > Chips, Crisps & Sticks"
-Snacks,Crackers,Snacks > Crackers
-Snacks,Dried Fruits,Snacks > Dried Fruits
-Snacks,Jellies & Puddings,Snacks > Jellies & Puddings
-Snacks,Nuts & Seeds,Snacks > Nuts & Seeds
-Snacks,Others Snacks,Snacks > Others Snacks
-Snacks,Seaweed,Snacks > Seaweed
-Stay Hygienic,Stay Hygienic
-Sweet Treats,Desserts & Cakes,Sweet Treats > Desserts & Cakes
-Sweet Treats,Sofuto,Sweet Treats > Sofuto
-Tarts & Pastries,Tarts & Pastries
-Valentine's Special,For Him (Valentine),Valentine's Special > For Him (Valentine)
-Valentine's Special,For Her (Valentine),Valentine's Special > For Her (Valentine)
-Valentine's Special,Valentine Flowers & Bouquet,Valentine's Special > Valentine Flowers & Bouquet
-Valentine's Special,Chocolate (Valentine Offer),Valentine's Special > Chocolate (Valentine Offer)
-Valentine's Special,Wine (Valentine Offer),Valentine's Special > Wine (Valentine Offer)
-Valentine's Special,Valentine Dessert,Valentine's Special > Valentine Dessert
-Valentine's Special,Valentine Gift Box,Valentine's Special > Valentine Gift Box
-Watsons Brand,Watsons Brand
-Watsons Brand - Paper & Cotton,Watsons Brand - Paper & Cotton
-Cat - Pet Supplies,Dry Cat Foods,Cat - Pet Supplies > Dry Cat Foods
-Cat - Pet Supplies,Wet Cat Foods,Cat - Pet Supplies > Wet Cat Foods
-Cat - Pet Supplies,Cat Care,Cat - Pet Supplies > Cat Care
-Cat - Pet Supplies,Cat Treats,Cat - Pet Supplies > Cat Treats
-Cat - Pet Supplies,Cat Toys,Cat - Pet Supplies > Cat Toys
-Dog - Pet Supplies,Dry Dog Foods,Dog - Pet Supplies > Dry Dog Foods
-Dog - Pet Supplies,Wet Dog Foods,Dog - Pet Supplies > Wet Dog Foods
-Dog - Pet Supplies,Dog Care,Dog - Pet Supplies > Dog Care
-Dog - Pet Supplies,Dog Treats,Dog - Pet Supplies > Dog Treats
-Dog - Pet Supplies,Dog Toys,Dog - Pet Supplies > Dog Toys
-Non-Halal Foods,Non-Halal Foods
-Prayer Items,Prayer Items
+Personal Care & Household,Health & Fitness,,Personal Care & Household > Health & Fitness
+Personal Care & Household,Household & Toys,,Personal Care & Household > Household & Toys
+Personal Care & Household,Personal Care,,Personal Care & Household > Personal Care
+Pet Supplies,Dry Food,,Pet Supplies > Dry Food
+Pet Supplies,Pet Care,,Pet Supplies > Pet Care
+Pet Supplies,Pet Toys,,Pet Supplies > Pet Toys
+Pet Supplies,Pet Treats,,Pet Supplies > Pet Treats
+Pet Supplies,Wet Food,,Pet Supplies > Wet Food
+Popcorn,Paper Cans,,Popcorn > Paper Cans
+Popcorn,Baby Cans,,Popcorn > Baby Cans
+Popcorn,Giftbox Sets,,Popcorn > Giftbox Sets
+Popular Items,,,Popular Items
+Prepacked Food,,,Prepacked Food
+Preserved Food,,,Preserved Food
+Promotion,,,Promotion
+Purchase with Purchase,,,Purchase with Purchase
+Quick Bites,Onigiri,,Quick Bites > Onigiri
+Quick Bites,Sandwiches,,Quick Bites > Sandwiches
+Ready To Eat,Bakery,,Ready To Eat > Bakery
+Ready To Eat,Instant Meals,,Ready To Eat > Instant Meals
+Ready To Eat,Instant Porridge,,Ready To Eat > Instant Porridge
+Ready To Eat,Ready to Eat Rice,,Ready To Eat > Ready to Eat Rice
+Seasonal,,,Seasonal
+Slurpee,,,Slurpee
+Slurpee Deals,,,Slurpee Deals
+Snacks,Cereal Bars,,Snacks > Cereal Bars
+Snacks,"Chips, Crisps & Sticks",,"Snacks > Chips, Crisps & Sticks"
+Snacks,Crackers,,Snacks > Crackers
+Snacks,Dried Fruits,,Snacks > Dried Fruits
+Snacks,Jellies & Puddings,,Snacks > Jellies & Puddings
+Snacks,Nuts & Seeds,,Snacks > Nuts & Seeds
+Snacks,Others Snacks,,Snacks > Others Snacks
+Snacks,Seaweed,,Snacks > Seaweed
+Stay Hygienic,,,Stay Hygienic
+Sweet Treats,Desserts & Cakes,,Sweet Treats > Desserts & Cakes
+Sweet Treats,Sofuto,,Sweet Treats > Sofuto
+Tarts & Pastries,,,Tarts & Pastries
+Valentine's Special,For Him (Valentine),,Valentine's Special > For Him (Valentine)
+Valentine's Special,For Her (Valentine),,Valentine's Special > For Her (Valentine)
+Valentine's Special,Valentine Flowers & Bouquet,,Valentine's Special > Valentine Flowers & Bouquet
+Valentine's Special,Chocolate (Valentine Offer),,Valentine's Special > Chocolate (Valentine Offer)
+Valentine's Special,Wine (Valentine Offer),,Valentine's Special > Wine (Valentine Offer)
+Valentine's Special,Valentine Dessert,,Valentine's Special > Valentine Dessert
+Valentine's Special,Valentine Gift Box,,Valentine's Special > Valentine Gift Box
+Watsons Brand,,,Watsons Brand
+Watsons Brand - Paper & Cotton,,,Watsons Brand - Paper & Cotton
+Cat - Pet Supplies,Dry Cat Foods,,Cat - Pet Supplies > Dry Cat Foods
+Cat - Pet Supplies,Wet Cat Foods,,Cat - Pet Supplies > Wet Cat Foods
+Cat - Pet Supplies,Cat Care,,Cat - Pet Supplies > Cat Care
+Cat - Pet Supplies,Cat Treats,,Cat - Pet Supplies > Cat Treats
+Cat - Pet Supplies,Cat Toys,,Cat - Pet Supplies > Cat Toys
+Dog - Pet Supplies,Dry Dog Foods,,Dog - Pet Supplies > Dry Dog Foods
+Dog - Pet Supplies,Wet Dog Foods,,Dog - Pet Supplies > Wet Dog Foods
+Dog - Pet Supplies,Dog Care,,Dog - Pet Supplies > Dog Care
+Dog - Pet Supplies,Dog Treats,,Dog - Pet Supplies > Dog Treats
+Dog - Pet Supplies,Dog Toys,,Dog - Pet Supplies > Dog Toys
+Non-Halal Foods,,,Non-Halal Foods
+Prayer Items,,,Prayer Items
 Makeup & Cosmetics,Eye Makeup,Eyeshadow,Makeup & Cosmetics > Eye Makeup > Eyeshadow
 Makeup & Cosmetics,Eye Makeup,Eyebrow Makeup,Makeup & Cosmetics > Eye Makeup > Eyebrow Makeup
 Makeup & Cosmetics,Eye Makeup,Eyeliner,Makeup & Cosmetics > Eye Makeup > Eyeliner
@@ -536,5 +536,5 @@ Makeup & Cosmetics,Nails,Nail Art,Makeup & Cosmetics > Nails > Nail Art
 Makeup & Cosmetics,Nails,Nail Polish,Makeup & Cosmetics > Nails > Nail Polish
 Makeup & Cosmetics,Nails,Nail Care,Makeup & Cosmetics > Nails > Nail Care
 Makeup & Cosmetics,Nails,Nail Polish Remover,Makeup & Cosmetics > Nails > Nail Polish Remover
-Shopping Bag,Recycling Bag,Shopping Bag > Recycling Bag
-Shopping Bag,One-Time Use,Shopping Bag > One-Time Use
+Shopping Bag,Recycling Bag,,Shopping Bag > Recycling Bag
+Shopping Bag,One-Time Use,,Shopping Bag > One-Time Use
